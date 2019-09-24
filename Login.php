@@ -10,4 +10,7 @@ class Login
     public function index(){
         return 'develop分支上的方法';
     }
+    public function delete(){
+        return 'develop分支上的方法';
+    }
 }
